@@ -1,4 +1,4 @@
-# 📝 CollabNotes — Real-Time Collaborative Notes App
+# 📝 Notely — Real-Time Collaborative Notes App
 
 A full-stack real-time collaborative notes application built with React, Node.js, PostgreSQL, and Socket.io.
 
