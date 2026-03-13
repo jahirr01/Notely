@@ -1,5 +1,8 @@
 # 📝 Notely — Real-Time Collaborative Notes App
 
+#Live Deployed Link:
+notely-notes-six.vercel.app
+
 A full-stack real-time collaborative notes application built with React, Node.js, PostgreSQL, and Socket.io.
 
 ---
